@@ -313,6 +313,6 @@ This project is for educational and research purposes. NBA data is property of t
 ---
 
 **Last Updated**: November 2024  
-**Author**: Tung Wai Nam, Yee Long Hei and Leung Chun Lung
+**Author**: Tung Wai Nam, Yee Long Hei, and Leung Chun Lung   
 **Institution**: City University of Hong Kong  
 **Course**: Data Science Course - SDSC3019 Introduction to Networked Life and Data Science
