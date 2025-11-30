@@ -1,0 +1,15 @@
+Metric,Pearson_r,Pearson_p,Significant
+Avg_Path_Length,0.84,0.08,N
+Top_Quartile_Concentration,0.77,0.12,N
+Degree_Gini,0.77,0.13,N
+Modularity,0.67,0.22,N
+Degree_CV,0.58,0.31,N
+Out_Centralization,0.47,0.43,N
+Degree_Assortativity,0.43,0.47,N
+Avg_Weighted_Degree,0.29,0.64,N
+Total_Centralization,0.24,0.7,N
+In_Centralization,-0.01,0.98,N
+Reciprocity,-0.03,0.97,N
+Density,-0.31,0.62,N
+Global_Efficiency,-0.7,0.19,N
+Pass_Efficiency_Pct,-0.86,0.06,N

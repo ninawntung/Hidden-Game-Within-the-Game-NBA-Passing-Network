@@ -1,0 +1,15 @@
+Metric,Pearson_r,Pearson_p,Significant
+In_Centralization,0.99,0.0,Y
+Pass_Efficiency_Pct,0.98,0.0,Y
+Avg_Weighted_Degree,0.77,0.13,N
+Degree_CV,0.65,0.23,N
+Top_Quartile_Concentration,0.64,0.24,N
+Degree_Gini,0.59,0.3,N
+Degree_Assortativity,0.58,0.3,N
+Density,0.51,0.38,N
+Total_Centralization,0.44,0.46,N
+Reciprocity,0.38,0.52,N
+Global_Efficiency,0.38,0.53,N
+Avg_Path_Length,-0.32,0.6,N
+Out_Centralization,-0.43,0.47,N
+Modularity,-0.87,0.05,N
